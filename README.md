@@ -19,6 +19,9 @@ P
 ## PROGRAM - ARP
 ### Client:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s = socket.socket()
 s.bind(('localhost', 8000))
@@ -39,6 +42,9 @@ while True:
 ```
 ### Server:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s = socket.socket()
 s.connect(('localhost',8000))
@@ -54,6 +60,9 @@ while True:
 ## PROGRAM - RARP
 ### Client:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s = socket.socket()
 s.bind(('localhost', 8000))
@@ -75,6 +84,9 @@ while True:
 
 ### Server:
 ```
+#Name: Mohamed Anas O.I
+#Reg No: 212223110028
+
 import socket
 s = socket.socket()
 s.connect(('localhost',8000))
